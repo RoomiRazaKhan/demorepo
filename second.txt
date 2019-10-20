@@ -1,2 +1,0 @@
-this is in branch2
-this is second line in branch2
